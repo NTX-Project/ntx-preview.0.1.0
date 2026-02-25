@@ -1,4 +1,4 @@
-# Kernel for Aster (AUR64)
+# Kernel for Aster (AURx64)
 
 This repository starts a custom kernel project inspired by:
 
