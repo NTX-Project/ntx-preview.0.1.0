@@ -1,0 +1,36 @@
+# Build and generated output
+build/
+build-*/
+dist/
+dist*/
+
+# Object/binary artifacts
+*.obj
+*.o
+*.a
+*.lib
+*.map
+*.raw
+*.efi
+*.bin
+
+# LLVM/intermediate outputs
+*.ll
+*.bc
+*.s
+
+# VM images and logs
+*.vhd
+*.vhdx
+*.vdi
+*.vmdk
+*.qcow2
+*.log
+
+# Common editor/OS noise
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
