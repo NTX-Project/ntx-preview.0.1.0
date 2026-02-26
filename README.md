@@ -1,4 +1,6 @@
 # Kernel for Aster (AURx64)
+# This project is under the NTX Temporary Evaluation License.
+You may read, build, and run it unmodified. You may not modify or redistribute modified versions. This is not open source.
 
 This repository starts a custom kernel project inspired by:
 
