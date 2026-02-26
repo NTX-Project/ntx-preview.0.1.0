@@ -1,0 +1,78 @@
+NTX TEMPORARY EVALUATION LICENSE (READ, RUN, FORK WITH NOTICE)
+Version 0.1
+
+Copyright (c) 2026 Zorec / NTX
+All rights reserved.
+
+IMPORTANT:
+This is a temporary, non-open-source license. It is not an OSI-approved license.
+If you do not agree to these terms, do not use, copy, or distribute this software.
+
+1. Definitions
+1.1 "Software" means this repository, including source code, binaries, scripts, build files, images, and documentation.
+1.2 "Licensor" means the copyright owner(s) of the Software.
+1.3 "You" means an individual or legal entity exercising rights under this License.
+1.4 "Modify" or "Modification" means any change, adaptation, translation, patch, merge, extension, reformat, or derivative work of any part of the Software.
+
+2. Limited Grant of Rights
+Subject to full compliance with this License, Licensor grants You a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
+2.1 View and inspect the Software.
+2.2 Build and run the Software in unmodified form.
+2.3 Use the Software for personal, educational, evaluation, and internal testing purposes only.
+2.4 Fork and modify the Software, and prepare derivative works, provided the Notice Requirement in Section 3 is satisfied.
+2.5 Submit contributions (including patches and pull requests) without prior written approval, provided the Notice Requirement in Section 3 is satisfied.
+
+3. Forking/Modification Notice Requirement and Core Restrictions
+3.1 If You fork, modify, or distribute a modified copy, You must inform Licensor/Provider.
+3.2 Notice must be given within 7 calendar days of first publication, first distribution, or first production use of the modified version (whichever comes first).
+3.3 Notice may be given by any written channel designated by Licensor/Provider (for example: repository issue, email, or other documented contact channel), and must include:
+- project/repository identifier;
+- a brief summary of the modification(s);
+- where the modified version is hosted or distributed (if publicly hosted).
+3.4 You may NOT remove, alter, or obscure copyright, attribution, or license notices in the Software.
+3.5 You may NOT represent modified versions as official Licensor/Provider releases.
+3.6 If You fail to satisfy Sections 3.1-3.3, rights to modify and distribute modified versions terminate automatically under Section 8.
+3.7 For clarity, contribution intake (including whether pull requests are reviewed, accepted, rejected, or ignored) is project governance policy and does not modify this License.
+
+4. Redistribution (Non-Commercial Only)
+4.0 All redistribution under this Section 4 is permitted only for non-commercial purposes and remains subject to Section 5.
+4.1 You may redistribute complete, unmodified copies of the Software if:
+- this License is included in full; and
+- all copyright and attribution notices are preserved.
+4.2 You may redistribute modified copies (including forks and derivative works) if all of the following are true:
+- Section 3 Notice Requirement is satisfied;
+- this License is included in full;
+- all original copyright and attribution notices are preserved;
+- You clearly mark the modified version as modified and unofficial.
+
+5. No Commercial Exploitation Without Permission
+You may not sell, license, host as a paid service, bundle for paid distribution, or otherwise commercially exploit the Software without prior written permission from Licensor.
+
+6. Ownership and Reservation of Rights
+6.1 The Software is licensed, not sold.
+6.2 Licensor retains all right, title, and interest in and to the Software and all related intellectual property rights.
+6.3 No rights are granted by implication, estoppel, or otherwise beyond the rights expressly stated in this License.
+
+7. Feedback
+If You provide feedback, suggestions, or ideas regarding the Software, Licensor may use them without restriction or compensation, unless otherwise agreed in writing.
+
+8. Term and Termination
+8.1 This License is effective until terminated.
+8.2 This License terminates automatically if You violate any term.
+8.3 Upon termination, You must immediately stop use and distribution of the Software and destroy all copies in Your possession or control, except where retention is required by law.
+8.4 Licensor may replace or supersede this temporary license with another license version at any time.
+
+9. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+10. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS, REVENUE, GOODWILL, OR BUSINESS INTERRUPTION, ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. Governing Law
+This License shall be governed by and construed in accordance with the laws of the Licensor's jurisdiction (as designated by Licensor in project notices or official repository metadata), excluding conflict-of-law rules.
+
+12. Entire Agreement
+This License is the entire agreement between You and Licensor regarding the Software and supersedes prior or contemporaneous understandings on this subject.
+
+13. Contact / Permissions
+For commercial licensing, modification rights, or exceptions, contact Licensor directly.
