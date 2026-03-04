@@ -2,6 +2,8 @@
 ## This project is under a Temporary Evaluation License.
 You may read, build, and run it unmodified. You may not modify or redistribute modified versions. This is not open source.
 
+# ARCHIVED
+
 This repository starts a custom kernel project inspired by:
 
 - NTOSKRNL design layering (`Ke`, `Hal`, `Mm`, `Ob`, `Ps`, `Io`)
